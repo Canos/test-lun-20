@@ -1,0 +1,8 @@
+hola
+soy
+david
+y
+estoy
+intentando
+provocar
+un conflict
